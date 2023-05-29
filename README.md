@@ -14,3 +14,6 @@ No I would not because unit testing is unable to test how different components i
 Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters.
 <br>
 Yes I would because this test only deals with one specific feature which is what unit testing is good at.
+<br>
+Anthony Yao
+Hieu Pham
